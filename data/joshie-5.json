@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "joshie",
+  "address": "0x2f1c5628e931fc75cf097072f61b9dc72d1d827f",
+  "risk": "2",
+  "title": "Oracle might be providing stale prices",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/5"
+}
