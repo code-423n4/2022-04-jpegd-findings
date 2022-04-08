@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "Wayne",
+  "address": "0xF6D05046b2F80C664484Ee61b813E60DAf186668",
+  "risk": "2",
+  "title": "The noContract modifier does not work as expected.",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/11"
+}
