@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "Kong",
+  "address": "0x7F97cACd05988fFE8bcBA0284c2362cABE5Fcfcc",
+  "risk": "2",
+  "title": "Unintended additional rewards",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/13"
+}
