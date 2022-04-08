@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "TrungOre",
+  "address": "0x1A4f547AeACB962B67Ec2fa35b803DA4F5f9b9D0",
+  "risk": "2",
+  "title": "rewards was locked in the farming pool due to the round-off error ",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/15"
+}
