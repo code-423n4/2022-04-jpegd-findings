@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "0v3rf10w",
+  "address": "0x4Dd980Ae601dB0a0856F3B7ABd6DD155Efa67b9D",
+  "risk": "2",
+  "title": "Minter role can mint infinite/total supply of tokens,if get compromised, Similar cases included",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/33"
+}
