@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "minhquanym",
+  "address": "0x616e6EC41bE589C7Cd08ee9E2fE8dD0Eaddd8941",
+  "risk": "3",
+  "title": "Reward could be locked in `LPFarming` because of using `balanceOf` to calculate `lpSupply`.",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/37"
+}
