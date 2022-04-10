@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "dirk_y",
+  "address": "0x00db4d01c8953a707239DC168E466F64dD97Fe9c",
+  "risk": "2",
+  "title": "A whitelisted sender can drain free collateral from FungibleAssetVaultForDAO",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/42"
+}
