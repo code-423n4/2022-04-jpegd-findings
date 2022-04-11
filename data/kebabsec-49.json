@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "kebabsec",
+  "address": "0x6a0aC307f008557B29c279DEA4136B4bfBe302a6",
+  "risk": "2",
+  "title": "Checks described in comment not in place",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/49"
+}
