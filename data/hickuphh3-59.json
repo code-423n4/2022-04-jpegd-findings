@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "hickuphh3",
+  "address": "0xD5388291EAbe96b56069440C97046791E2F72573",
+  "risk": "2",
+  "title": "NFTVault: Floor price can be set to 0 via setNFTTypeValueETH()",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/59"
+}
