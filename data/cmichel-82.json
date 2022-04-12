@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "Can steal `yVault` deposits due to bad initial `shares` calculation",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/82"
+}
