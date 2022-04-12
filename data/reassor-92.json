@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "reassor",
+  "address": "0x4135B2eE90622e19C736a4988A073432a72eca95",
+  "risk": "2",
+  "title": "Usage of deprecated Chainlink's latestAnswer function",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/92"
+}
