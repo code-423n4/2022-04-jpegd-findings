@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "`FungibleAssetVaultForDAO` does not work with fee-on-transfer tokens",
+  "issueId": 77,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/77"
+}
