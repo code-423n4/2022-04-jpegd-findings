@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "AuditsAreUS",
+  "address": "0x8f6e76F3059DcFAC435bBb7029294eB6ceEcab23",
+  "risk": "2",
+  "title": "Division before Multiplication May Result In No Interest Being Accrued",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/97"
+}
