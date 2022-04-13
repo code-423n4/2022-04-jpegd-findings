@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "rayn",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "`YVault` does not tie `deposit` together with `earn`, thus allowing griefing attacks to prevent normal users from earning `token` yields",
+  "issueId": 135,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/135"
+}
