@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "2",
+  "title": "use of Transfer() instead of call() to send eth",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/123"
+}
