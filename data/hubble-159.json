@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "hubble",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "2",
+  "title": "missing lowerbounds for critical parameters creditLimitRate & liquidationLimitRate.",
+  "issueId": 159,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/159"
+}
