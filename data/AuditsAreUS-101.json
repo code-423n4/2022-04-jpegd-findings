@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "AuditsAreUS",
+  "address": "0x8f6e76F3059DcFAC435bBb7029294eB6ceEcab23",
+  "risk": "3",
+  "title": "`finalizePendingNFTValue()` May Lock an NFT Value Twice Overwriting The Previous Call",
+  "issueId": 101,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/101"
+}
