@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "ilan",
+  "address": "0xEEBd02ddc406754621ff674c19f048fdF95C6D2B",
+  "risk": "2",
+  "title": "Re-entrerable code in NFTVault.repurchase",
+  "issueId": 213,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/213"
+}
