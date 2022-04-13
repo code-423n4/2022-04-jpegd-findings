@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "rayn",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "`StrategyPUSDConvex.balanceOfJPEG` calculates the amount of `JPEG` interest incorrectly, leading to incorrect updates in `YVaultLPFarming._computeUpdate`",
+  "issueId": 138,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/138"
+}
