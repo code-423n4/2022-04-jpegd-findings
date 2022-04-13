@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "2",
+  "title": "unhandled return value form transfer() and transferFrom() in  JpegStaking.sol",
+  "issueId": 125,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/125"
+}
