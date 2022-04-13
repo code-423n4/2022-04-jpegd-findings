@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "rayn",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "`Controller.setStrategy` tries to withdraw `JPEG` token with incorrect function `strategy.withdraw(address)`, leading to certain revert and renders `setStrategy` unuseable",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/136"
+}
