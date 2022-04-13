@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "0xDjango",
+  "address": "0x5938Dc681121c306192F3187a3EEe47B9C697BA0",
+  "risk": "2",
+  "title": "Owner of LPFarming.sol can DOS rewards by stopping epoch at any time",
+  "issueId": 103,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/103"
+}
