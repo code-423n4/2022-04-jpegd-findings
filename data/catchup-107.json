@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "catchup",
+  "address": "0xB159bEEb1DeA94440820F9A06A2f613974467e0E",
+  "risk": "2",
+  "title": "Liquidation Limit Rate updates effect the liquidation limit of the current loans as well.",
+  "issueId": 107,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/107"
+}
