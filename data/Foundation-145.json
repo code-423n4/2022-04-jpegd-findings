@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "Foundation",
+  "address": "0xdb92C096bc5Efa8aDB48F05CD601DDdb75228203",
+  "risk": "3",
+  "title": "JPEGLock lockups overwrite previous data",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/145"
+}
