@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "3",
+  "title": "NFTVault lending rate compounding is ambiguous",
+  "issueId": 230,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/230"
+}
