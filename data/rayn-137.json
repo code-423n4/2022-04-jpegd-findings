@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "rayn",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "`StrategyPUSDConvex`, `Controller` and `YVault` does not check corresponding `Controller`, `YVault`, `YFaultLPFarming` when calculating balance and accepting deposits. Allowing malicious users to create fake instances for phishing attacks",
+  "issueId": 137,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/137"
+}
