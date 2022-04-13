@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H9] `_swapUniswapV2` may use an improper `path` which can cause a loss of the majority of the rewardTokens",
+  "issueId": 157,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/157"
+}
