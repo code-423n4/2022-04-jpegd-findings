@@ -1,0 +1,9 @@
+{
+  "contest": 107,
+  "handle": "AuditsAreUS",
+  "address": "0x8f6e76F3059DcFAC435bBb7029294eB6ceEcab23",
+  "risk": "2",
+  "title": "Reentrancy Issue Due to Lack of Reentrancy Guard on `closePosition()`",
+  "issueId": 99,
+  "issueUrl": "https://github.com/code-423n4/2022-04-jpegd-findings/issues/99"
+}
