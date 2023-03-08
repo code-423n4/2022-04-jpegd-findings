@@ -1,3 +1,11 @@
+---
+sponsor: "JPEG'd"
+slug: "2022-04-jpegd"
+date: "2022-06-10"
+title: "JPEG'd contest"
+findings: "https://github.com/code-423n4/2022-04-jpegd-findings/issues"
+contest: 107
+---
 
 # Overview
 
